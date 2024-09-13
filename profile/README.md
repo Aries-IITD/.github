@@ -6,6 +6,7 @@
 
 - We are into all things AI/ML. Be it Natural Language Processing to Computer Vision, we do it all at ARIES.
 - We also host tons of hackathons, events, speaker sessions and learning sessions. Do look out for those on our social media pages.
+- ![Visitor Count](https : //profile-counter.glitch.me/{Aries-IITD}/count.svg)
 
 - 📫 Reach us at **aries@iitd.ac.in** or **aisociety.iitd@gmail.com**
 
